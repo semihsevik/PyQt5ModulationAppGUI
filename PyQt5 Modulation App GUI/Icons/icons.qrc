@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/books-icon.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/info-31211_960_720.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/koü.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/Modulation.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/pencil_1.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/red_repicthousebase_1484336386-1.png</file>
+  </qresource>
+</RCC>
